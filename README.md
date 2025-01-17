@@ -22,17 +22,3 @@ If you'd like to contribute or suggest improvement,please feel free to open an i
 
 Thank you for visiting my portfolio website!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. C
