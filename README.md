@@ -14,7 +14,7 @@ welcome to my portfolio website!This is a simple portfolio website created using
 
 ## How to View
 
-you can access my portfolio website by visiting[link] feel free to explore the content and get in touch!
+you can access my portfolio website by visiting[ https://saranyasathya67.github.io/portfolio-simple-website/] feel free to explore the content and get in touch!
 
 ## contributing
 
